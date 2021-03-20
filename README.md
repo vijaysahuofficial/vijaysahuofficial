@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijaysahuofficial
+- 👋 Hi, I’m @vijaysahu
 - 👀 I’m interested in Programming and Hacking
 - 🌱 I’m currently learning Hacking
 
